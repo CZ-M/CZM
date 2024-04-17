@@ -4,7 +4,7 @@ def yellow():
 def red():
  print("song2")
 
-def green():
+def green():#this should be blue
  print("song3")
 
 def blue():
